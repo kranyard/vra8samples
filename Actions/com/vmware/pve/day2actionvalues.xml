@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dunes-script-module name="day2actionvalues" result-type="Array/string" api-version="6.0.0" id="3195fac0-3d44-4152-99e2-af78285294b5" version="0.0.0" category-name="com.vmware.pve">
+  <param n="input" t="string"><![CDATA[]]></param>
+  <script encoded="false"><![CDATA[
+var input 
+
+return (["a"+input, "b"+input])]]></script>
+</dunes-script-module>
